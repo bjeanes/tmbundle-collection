@@ -1,0 +1,48 @@
+[submodule "Ruby Faker.tmbundle"]
+	path = Ruby Faker.tmbundle
+	url = git://github.com/omghax/faker-tmbundle.git
+[submodule "Javascript.tmbundle"]
+	path = Javascript.tmbundle
+	url = git://github.com/subtleGradient/javascript.tmbundle.git
+[submodule "Git.tmbundle"]
+	path = Git.tmbundle
+	url = git://github.com/timcharper/git-tmbundle.git
+[submodule "RubyCocoa.tmbundle"]
+	path = RubyCocoa.tmbundle
+	url = git://github.com/drnic/rubycocoa-tmbundle.git
+[submodule "Mocha.tmbundle"]
+	path = Mocha.tmbundle
+	url = git://github.com/joshuabates/mocha-tmbundle.git
+[submodule "Javascript Prototype.tmbundle"]
+	path = Javascript Prototype.tmbundle
+	url = git://github.com/kangax/prototype-tmbundle.git
+[submodule "Ruby on Rails.tmbundle"]
+	path = Ruby on Rails.tmbundle
+	url = git://github.com/drnic/ruby-on-rails-tmbundle
+[submodule "Ruby Shoulda.tmbundle"]
+	path = Ruby Shoulda.tmbundle
+	url = git://github.com/drnic/ruby-shoulda-tmbundle.git
+[submodule "Ruby.tmbundle"]
+	path = Ruby.tmbundle
+	url = git://github.com/drnic/ruby-tmbundle
+[submodule "HTML.tmbundle"]
+	path = HTML.tmbundle
+	url = git://github.com/drnic/html-tmbundle.git
+[submodule "Javascript JQuery.tmbundle"]
+	path = Javascript JQuery.tmbundle
+	url = git://github.com/drnic/javascript-jquery-tmbundle.git
+[submodule "Objective-C iPhone.tmbundle"]
+	path = Objective-C iPhone.tmbundle
+	url = git://github.com/drnic/objective-c-iphone-tmbundle.git
+[submodule "RSpec.tmbundle"]
+	path = RSpec.tmbundle
+	url = git://github.com/dchelimsky/rspec-tmbundle.git
+[submodule "Copy as RTF.tmbundle"]
+	path = Copy as RTF.tmbundle
+	url = git://github.com/drnic/copy-as-rtf-tmbundle.git
+[submodule "GitHub.tmbundle"]
+	path = GitHub.tmbundle
+	url = git://github.com/drnic/github-tmbundle.git
+[submodule "RSpec Story.tmbundle"]
+	path = RSpec Story.tmbundle
+	url = git://github.com/bmabey/rspec-story-tmbundle.git
