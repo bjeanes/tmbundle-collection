@@ -46,3 +46,6 @@
 [submodule "RSpec Story.tmbundle"]
 	path = RSpec Story.tmbundle
 	url = git://github.com/bmabey/rspec-story-tmbundle.git
+[submodule "Ruby Haml.tmbundle"]
+	path = Ruby Haml.tmbundle
+	url = git://github.com/douglasjarquin/ruby-haml-tmbundle.git
