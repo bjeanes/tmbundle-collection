@@ -49,3 +49,6 @@
 [submodule "Ruby Haml.tmbundle"]
 	path = Ruby Haml.tmbundle
 	url = git://github.com/douglasjarquin/ruby-haml-tmbundle.git
+[submodule "RubyAMP.tmbundle"]
+	path = RubyAMP.tmbundle
+	url = git://github.com/timcharper/rubyamp.git
