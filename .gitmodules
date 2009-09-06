@@ -52,3 +52,6 @@
 [submodule "Mocha.tmbundle"]
 	path = Mocha.tmbundle
 	url = git://github.com/joshuabates/ruby-mocha.tmbundle.git
+[submodule "Cucumber.tmbundle"]
+	path = Cucumber.tmbundle
+	url = git://github.com/bmabey/cucumber-tmbundle.git
