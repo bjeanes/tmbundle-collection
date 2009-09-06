@@ -49,3 +49,6 @@
 [submodule "RubyAMP.tmbundle"]
 	path = RubyAMP.tmbundle
 	url = git://github.com/timcharper/rubyamp.git
+[submodule "Mocha.tmbundle"]
+	path = Mocha.tmbundle
+	url = git://github.com/joshuabates/ruby-mocha.tmbundle.git
