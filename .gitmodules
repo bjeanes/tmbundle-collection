@@ -10,9 +10,6 @@
 [submodule "RubyCocoa.tmbundle"]
 	path = RubyCocoa.tmbundle
 	url = git://github.com/drnic/rubycocoa-tmbundle.git
-[submodule "Mocha.tmbundle"]
-	path = Mocha.tmbundle
-	url = git://github.com/joshuabates/mocha-tmbundle.git
 [submodule "Javascript Prototype.tmbundle"]
 	path = Javascript Prototype.tmbundle
 	url = git://github.com/kangax/prototype-tmbundle.git
