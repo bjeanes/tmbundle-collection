@@ -58,3 +58,6 @@
 [submodule "Pivotal Tracker.tmbundle"]
 	path = Pivotal Tracker.tmbundle
 	url = git://github.com/drnic/pivotal-tracker-tmbundle.git
+[submodule "Fish.tmbundle"]
+	path = Fish.tmbundle
+	url = git://github.com/l15n/fish-tmbundle.git
