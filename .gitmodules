@@ -61,3 +61,9 @@
 [submodule "Fish.tmbundle"]
 	path = Fish.tmbundle
 	url = git://github.com/l15n/fish-tmbundle.git
+[submodule "Ack.tmbundle"]
+	path = Ack.tmbundle
+	url = git://github.com/protocool/ack-tmbundle.git
+[submodule "Blue Ridge.tmbundle"]
+	path = Blue Ridge.tmbundle
+	url = git://github.com/drnic/blue-ridge-tmbundle.git
