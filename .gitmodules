@@ -67,3 +67,6 @@
 [submodule "Blue Ridge.tmbundle"]
 	path = Blue Ridge.tmbundle
 	url = git://github.com/drnic/blue-ridge-tmbundle.git
+[submodule "javascript tools.tmbundle"]
+	path = javascript tools.tmbundle
+	url = git://github.com/subtleGradient/javascript-tools.tmbundle.git
