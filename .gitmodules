@@ -73,3 +73,6 @@
 [submodule "Make.tmbundle"]
 	path = Make.tmbundle
 	url = git://github.com/mattfoster/make.tmbundle.git
+[submodule "Sass.tmbundle"]
+	path = Sass.tmbundle
+	url = git://github.com/aussiegeek/ruby-sass-tmbundle.git
