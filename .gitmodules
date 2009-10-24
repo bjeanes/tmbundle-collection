@@ -76,3 +76,6 @@
 [submodule "Sass.tmbundle"]
 	path = Sass.tmbundle
 	url = git://github.com/aussiegeek/ruby-sass-tmbundle.git
+[submodule "code-beautifier.tmbundle"]
+	path = code-beautifier.tmbundle
+	url = git://github.com/mocoso/code-beautifier.tmbundle.git
